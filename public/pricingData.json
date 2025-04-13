@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "plan_name": "Basic Membership",
+    "price": "$30/month",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free Wi-Fi",
+      "1 personal training session/month",
+      "Daily workout tracker",
+      "Basic fitness assessment"
+    ],
+    "description": "A humble beginning for the disciplined soul. Perfect for those who want to grind in silence, sweat with purpose, and rise one rep at a time."
+  },
+  {
+    "id": 2,
+    "plan_name": "Standard Membership",
+    "price": "$50/month",
+    "features": [
+      "All Basic features",
+      "Unlimited personal training sessions",
+      "Group fitness classes (Yoga, Zumba, HIIT)",
+      "Steam and sauna access",
+      "Nutritional guidance",
+      "Mobile app integration",
+      "Weekly progress tracking"
+    ],
+    "description": "Where balance meets ambition. Ideal for those who want structure, support, and a solid tribe to push past limits and hit their stride."
+  },
+  {
+    "id": 3,
+    "plan_name": "Premium Membership",
+    "price": "$75/month",
+    "features": [
+      "All Standard features",
+      "Full-body spa access",
+      "Exclusive access to VIP training zone",
+      "Massage therapy sessions (2/month)",
+      "Priority booking for all classes",
+      "Advanced body composition analysis",
+      "Fitness gear discounts",
+      "Free guest passes (2/month)"
+    ],
+    "description": "For the relentless warriors and wellness royalty. Crafted for those who demand the elite experience — luxury, power, and peak performance."
+  },
+  {
+    "id": 4,
+    "plan_name": "Student Membership",
+    "price": "$20/month",
+    "features": [
+      "Access to gym equipment",
+      "1 personal training session/month",
+      "Discounted group classes",
+      "Student lounge access",
+      "Flexible class hours",
+      "Fitness certificate for academic credit (select programs)"
+    ],
+    "description": "Budget-friendly, hustle-approved. Designed for students balancing books and barbells — stay fit without burning through your wallet."
+  },
+  {
+    "id": 5,
+    "plan_name": "Family Membership",
+    "price": "$150/month",
+    "features": [
+      "Access for 4 family members",
+      "Unlimited training for all members",
+      "Family workout sessions",
+      "Parent-kid fitness classes",
+      "Kids' play area",
+      "Shared locker and lounge access",
+      "Guest passes (4/month)",
+      "Family health & nutrition planning"
+    ],
+    "description": "Strong families, stronger bonds. A plan made for unity, wellness, and shared victories — because fitness is always better together."
+  }
+]
